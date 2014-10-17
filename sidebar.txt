@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gey:home|Door43 (gey)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gey|d43-gey repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gey/archive/master.zip|d43-gey.zip]]
+
+**Recent Changes**
+{{changes>ns = gey}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gey|Ethnologue data]]
+
